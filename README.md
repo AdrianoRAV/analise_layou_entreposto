@@ -36,7 +36,7 @@ Pandas (para manipulação de dados)
 
 OpenPyXL (para leitura e escrita de arquivos Excel)
 
-![Tela Layout](img/layout.png)
+![Tela Layout](Layout.png)
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
