@@ -36,7 +36,8 @@ Pandas (para manipulação de dados)
 
 OpenPyXL (para leitura e escrita de arquivos Excel)
 
-![Tela Layout]([Layout.png](https://github.com/AdrianoRAV/analise_layou_entreposto/blob/main/Screen.png))
+![Tela Layout](Screen.png)
+
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
