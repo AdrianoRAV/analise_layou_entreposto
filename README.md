@@ -38,7 +38,9 @@ OpenPyXL (para leitura e escrita de arquivos Excel)
 
 ![Tela Layout](Screen.png)
 
-![Tela Layout modo Dark](Layout.png)
+![Tela Layout modo Dark](Layout.PNG)
+
+
 
 
 📄 Licença
